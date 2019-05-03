@@ -10,6 +10,8 @@ public class MySpringApplication {
 		// TODO Auto-generated method stub
 		
 		SpringApplication.run(MySpringApplication.class, args);
+		
+		
 
 	}
 
